@@ -19,5 +19,5 @@ app.get('/process_get', function (req, res) {
 })
  
 app.listen(8081, function () {
-  console.log("应用实例，访问地址为8081...")
+  console.log("应用实例，访问地址为8081")
 })
